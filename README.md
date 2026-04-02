@@ -21,7 +21,7 @@ Earl Gray is a 13-year-old cat with *a lot* of opinions. This project gives him 
 
 | Component | Description | Interface |
 |-----------|-------------|-----------|
-| ESP32-WROOM-32 DevKit | 30-pin development board (Micro-USB) | — |
+| ESP32-WROOM-32 DevKit | 30-pin development board (USBC) | — |
 | INMP441 | MEMS I2S digital microphone breakout | I2S |
 | SSD1306 OLED | 0.96" I2C display (128x64) | I2C |
 | TP4056 | USB-C LiPo charger module | — |
