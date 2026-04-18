@@ -2,7 +2,7 @@
 A custom PCB + AI-powered device that listens to my cat Earl Gray's meows and interprets what he's saying
 # 🐱🎤 Earl's Meow Interpreter
 
-Earl Gray is a 13-year-old cat with *a lot* of opinions. This project gives him a voice — literally. The device captures Earl's vocalizations using a MEMS microphone, processes the audio on an ESP32, and uses a machine learning model using AWS SageMaker to classify his meows into categories like "hungry", happy", "need attention", and "annoyed". 
+Earl Gray is a 13-year-old cat with opinions. This device captures Earl's vocalizations using a MEMS microphone, processes the audio on an ESP32, and uses a machine learning model using AWS SageMaker to classify his meows into categories like "hungry", happy", "need attention". 
 
 ---
 
@@ -53,25 +53,23 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 | | |
 |---|---|
 | **PCB Layout** |
-| ![PCB](3D.jpg) |
+| ![PCB](PCB-Layout.jpg) |
 
 | | |
 |---|---|
 | **3D View** |
 | ![3D](3D.jpg) |
 
-> V1 is a carrier board design using breakout modules. V2 will be a fully integrated bare-component PCB.
 
 ---
 
 ## Software (Coming Soon)
 
-- [ ] ESP32 I2S audio capture firmware (Arduino/PlatformIO)
+- [ ] ESP32 I2S audio capture firmware (Arduino)
 - [ ] Audio preprocessing and feature extraction
 - [ ] AWS SageMaker audio classification model
 - [ ] Real-time OLED display of classified meow
 - [ ] WiFi-based cloud inference pipeline
-- [ ] Web dashboard for meow history and trends
 
 ---
 
@@ -82,16 +80,14 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 | V1 Schematic Design | ✅ Complete |
 | V1 PCB Layout | ✅ Complete |
 | V1 PCB Fabrication | 🔄 Ordered |
-| Breadboard Prototype | ⬜ Next |
 | ESP32 Firmware | ⬜ Upcoming |
 | ML Model Training | ⬜ Upcoming |
-| V2 Bare-Component PCB | ⬜ Future |
 
 ---
 
 ## The Story
 
-Earl Gray has been my co-pilot through a career transition from airline captain to cloud architecture. He's 13, has strong opinions about meal timing, and deserves to be understood. This project combines my love for IoT, cloud computing, and Earl into something that's both technically challenging and fun!
+Earl Gray has been my co-pilot through a career transition from airline captain to cloud architecture. He's 13, has strong opinions and deserves to be understood. This project combines my love for IoT, cloud computing, and Earl into something that's both technically challenging and fun!
 
 This is also a learning journey — my first custom PCB, my first KiCad project, and my first hardware ML pipeline.
 
