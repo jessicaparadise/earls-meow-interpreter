@@ -52,13 +52,13 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 
 | | |
 |---|---|
-| **Schematic** | **PCB Layout** |
-| ![Schematic](schematic.png) | ![PCB](pcb-layout.png) |
+| **PCB Layout** |
+| ![PCB](3D.jpg) |
 
 | | |
 |---|---|
-| **3D Front** | **3D Back** |
-| ![3D Front](3d-front.png) | ![3D Back](3d-back.png) |
+| **3D View** |
+| ![3D](3D.jpg) |
 
 > V1 is a carrier board design using breakout modules. V2 will be a fully integrated bare-component PCB.
 
