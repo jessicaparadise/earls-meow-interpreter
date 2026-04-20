@@ -53,7 +53,7 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 | | |
 |---|---|
 | **PCB Layout** |
-| ![PCB](PCBLayout.jpg) |
+| ![PCB](PCB.Layout.jpg) |
 
 | | |
 |---|---|
