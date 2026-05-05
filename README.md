@@ -83,7 +83,7 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 |-------|--------|
 | V1 Schematic Design | ✅ Complete |
 | V1 PCB Layout | ✅ Complete |
-| V1 PCB Fabrication | 🔄 Ordered |
+| V1 PCB Fabrication | ✅ Complete |
 | ESP32 Firmware | ⬜ Upcoming |
 | ML Model Training | ⬜ Upcoming |
 
