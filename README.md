@@ -65,12 +65,6 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 | **PCB Board** |
 | ![PCB board](pcb.jpg) |
 
-| | |
-|---|---|
-| **The setup** |
-| ![Setup](pcb2.jpg) |
-
-
 ---
 
 ## Software (Coming Soon)
