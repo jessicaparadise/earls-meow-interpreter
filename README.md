@@ -55,17 +55,17 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 | | |
 |---|---|
 | **PCB Layout** |
-| ![PCB](PCB.Layout.jpg) |
+| ![PCB](PCB Layout here) |
 
 | | |
 |---|---|
 | **3D View** |
-| ![3D](3D.jpg) |
+| ![3D](3D view here) |
 
 | | |
 |---|---|
 | **PCB Board** |
-| ![PCB board](pcb.jpg) |
+| ![PCB board](actual board here) |
 
 ---
 
@@ -83,9 +83,9 @@ The carrier board connects all breakout modules via pin headers — no bare-chip
 
 | Phase | Status |
 |-------|--------|
-| V1 Schematic Design | ✅ Complete |
-| V1 PCB Layout | ✅ Complete |
-| V1 PCB Fabrication | ✅ Complete |
+| V1 Schematic Design | ✅ Reworking |
+| V1 PCB Layout | ✅ Reworking |
+| V1 PCB Fabrication | ✅ Reworking |
 | ESP32 Firmware | ⬜ Upcoming |
 | ML Model Training | ⬜ Upcoming |
 
