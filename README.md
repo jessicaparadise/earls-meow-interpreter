@@ -5,7 +5,7 @@ A custom PCB + AI-powered device that listens to my cat Earl Gray's meows and in
 Earl Gray is a 13-year-old cat with opinions. This device captures Earl's vocalizations using a MEMS microphone, processes the audio on an ESP32, and uses a machine learning model using AWS SageMaker to classify his meows into categories like "hungry", happy", "need attention". 
 | | |
 |---|---|
-| !(Meow2.png) |
+| []!(Meow2.png) |
 ---
 
 ## How It Works
