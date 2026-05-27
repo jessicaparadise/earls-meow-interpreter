@@ -51,10 +51,9 @@ LiPo Battery (3.7V) → TP4056 Charger → ESP32 VIN → 3.3V Regulator (onboard
                                                       ├── OLED (3.3V)
                                                       └── INMP441 (3.3V)
 ```
-| | |
-|---|---|
-V1
-| ![](<img src="photos/earl-lab.jpg" width="300">) |
+| V1 |
+| --- |
+| <img src="photos/earl-lab.jpg" width="300"> |
 
 ### Schematic & PCB
 
