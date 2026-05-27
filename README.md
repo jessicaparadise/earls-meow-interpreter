@@ -8,6 +8,10 @@ Earl Gray is a 13-year-old cat with opinions. This device captures Earl's vocali
 | ![](Meow2.png) |
 ---
 
+Earl meows → ESP32 detects sound → Records ~3 sec clip → WiFi → 
+API Gateway → Lambda → S3 (stores WAV) → Classification model → 
+Result back to ESP32 → OLED shows "Earl says: HUNGRY"
+
 ## How It Works
 
 1. **INMP441 MEMS mic** captures Earl's meows
