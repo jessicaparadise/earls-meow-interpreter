@@ -54,7 +54,7 @@ LiPo Battery (3.7V) → TP4056 Charger → ESP32 VIN → 3.3V Regulator (onboard
 | | |
 |---|---|
 V1
-| ![](photos/earl-lab.jpg) |
+| ![](<img src="photos/earl-lab.jpg" width="300">) |
 
 ### Schematic & PCB
 
